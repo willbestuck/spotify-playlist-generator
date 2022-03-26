@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/willbestuck/spotify-playlist-generator#readme",
   "dependencies": {
-    "dotenv": "^16.0.0"
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.0",
+    "request": "^2.88.2"
   }
 }

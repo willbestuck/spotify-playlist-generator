@@ -1,3 +1,14 @@
 require('dotenv').config();
+const csv = require('./functions/csv_intake.js');
 
-console.log(process.env.SECRET_MESSAGE);
+async function main() {
+    const artists = await csv();
+
+    for (obj of artists) {
+        
+    }
+}
+
+main().catch((err) => {
+    console.log(err);
+});
