@@ -1,0 +1,20 @@
+{
+  "name": "spotify-playlist-generator",
+  "version": "1.0.0",
+  "description": "Build Spotify Playlist from a list of Artists in csv format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willbestuck/spotify-playlist-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willbestuck/spotify-playlist-generator/issues"
+  },
+  "homepage": "https://github.com/willbestuck/spotify-playlist-generator#readme"
+}
