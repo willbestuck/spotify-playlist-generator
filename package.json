@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/willbestuck/spotify-playlist-generator/issues"
   },
-  "homepage": "https://github.com/willbestuck/spotify-playlist-generator#readme"
+  "homepage": "https://github.com/willbestuck/spotify-playlist-generator#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
 }
