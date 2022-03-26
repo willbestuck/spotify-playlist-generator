@@ -6,4 +6,4 @@ The purpose of this project is to take as input a CSV of Artist names and output
 
 ## Prerequisites
 - Make sure you have created a Spotify developer account at 'https://developer.spotify.com/'
-- Create a CSV file with Artist names (see example in root directory)
+- Create a CSV file with Artist names
